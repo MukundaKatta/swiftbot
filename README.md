@@ -79,6 +79,3 @@ swiftbot/
 └── package.json
 ```
 
-## License
-
-MIT
