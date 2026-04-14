@@ -1,5 +1,7 @@
 # swiftbot — Low-cost robot fleet management and performance platform
 
+**Live:** <https://mukundakatta.github.io/swiftbot/>
+
 Low-cost robot fleet management and performance platform. swiftbot gives you a focused, inspectable implementation of that idea.
 
 ## Why swiftbot
